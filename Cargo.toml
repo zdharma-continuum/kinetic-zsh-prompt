@@ -5,7 +5,7 @@ authors = ["Sebastian Gniazdowski <sgniazdowski@gmail.com>"]
 edition = "2018"
 license = "MIT"
 description = "A fast and animated Zsh prompt"
-repository = https://github.com/zdharma/kinetic-zsh-prompt
+repository = "https://github.com/zdharma/kinetic-zsh-prompt"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
