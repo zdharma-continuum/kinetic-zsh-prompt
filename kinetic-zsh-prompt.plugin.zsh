@@ -17,6 +17,6 @@ fi
 
 # Standard hash for plugins, to not pollute the namespace
 typeset -gA Plugins
-Plugins[KINETIC_DIR]=${0:h}
+Plugins[KINETIC_DIR]="${0:h}"
 
 # vim:ft=zsh:tw=80:sw=4:sts=4:et:foldmarker=[[[,]]]
